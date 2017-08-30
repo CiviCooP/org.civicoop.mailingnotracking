@@ -1,0 +1,12 @@
+{
+  "name": "civicoop/org.civicoop.mailingnotracking",
+  "description": "Default no tracking for mailings",
+  "type": "civicrm-module",
+  "authors": [
+    {
+      "name": "Jaap Jansma",
+      "email": "jaap@edeveloper.nl"
+    }
+  ],
+  "license": "AGPL-3.0"
+}
